@@ -14,6 +14,7 @@ gem 'simple_form', '~> 2.1'
 
 gem 'puma', '~> 2.6'
 
+gem 'pg'
 
 group :assets do
   gem 'sass-rails', '~> 3.2'
